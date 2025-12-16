@@ -1,1 +1,0 @@
-python3 get_statistics.py   --data-dir ./EV_data   --output ./ev_statistics_fast_slow_stats.csv   --workers 35

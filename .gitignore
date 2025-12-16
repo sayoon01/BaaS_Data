@@ -4,6 +4,9 @@ GV60/M*.csv
 # 임시 파일 제외
 GV60/.ev_statistics_fast_slow_stats.csv_parts/
 
+# BaAS_code 폴더 제외
+BaAS_code/
+
 # 기타 제외할 파일들 (선택사항)
 *.zip
 __pycache__/
